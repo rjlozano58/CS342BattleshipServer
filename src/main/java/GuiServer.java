@@ -1,7 +1,6 @@
-// Rogelio Lozano and Pradyun Shrestha
+// Rogelio Lozano, Pradyun Shrestha, Zakareah Hafeez
 // CS 342 - Software Design - Prof. McCarthy
-// Project 3: Messaging App
-// Description: This Class is responsible for the Server GUI
+// Project 4: Battleship
 
 import java.util.HashMap;
 

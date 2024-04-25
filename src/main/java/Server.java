@@ -1,7 +1,6 @@
-// Rogelio Lozano and Pradyun Shrestha
+// Rogelio Lozano, Pradyun Shrestha, Zakareah Hafeez
 // CS 342 - Software Design - Prof. McCarthy
-// Project 3: Messaging App
-// Description: This Class is responsible for Server Side Threading operations
+// Project 4: Battleship
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
